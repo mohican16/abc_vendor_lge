@@ -18,6 +18,8 @@ $(call inherit-product, vendor/lge/bullhead/bullhead-vendor-blobs.mk)
 PRODUCT_PACKAGES += \
     atfwd \
     CNEService \
+    CarrierServices \
+    CarrierSetup \
     ConnMO \
     datastatusnotification \
     DCMO \
